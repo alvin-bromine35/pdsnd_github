@@ -1,17 +1,42 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+February 11, 2021
 
 ### Project Title
-Replace the Project Title
+US Bikeshare System Data Analysis
 
 ### Description
-Describe what your project is about and what it does
+This is a user interactive python program that explores the data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. The program provides descriptive statistics and insights on the data based on the user input.
 
-### Files used
-Include the files used
+### Data Insights
+**Time Related Statistics:**
+* most common month
+* most common day of week
+* most common hour of day
+
+**Station Related Statistics:**
+* most common start station
+* number of times the most common start station has been used
+* most common end station
+* number of times the most common end station has been used
+* most common trip from start to end
+* Top 10 most common start station
+* Top 10 most common end station
+
+**Trip Duration Statistics:**
+* Total Trip Duration
+* Average Trip Duration
+
+**User Related Statistics:**
+* User Type Distribution
+* Gender Distribution
+* Earliest birth of year
+* Most recent birth of year
+* Most common birth of year
+
+### Software Needed
+* Python 3
+* Terminal Application (e.g Git or Git Bash)
+* Anaconda
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+[Juno Lee - Udacity Mentor](https://github.com/junolee)
